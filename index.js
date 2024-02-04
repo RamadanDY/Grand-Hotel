@@ -16,7 +16,10 @@ document.querySelector(".year").textContent = "2024";
 // });
 const aboutbtn = document.querySelector(".about-us-btn");
 const textch = document.querySelector(".about-us-paragraph");
+const textch = document.querySelector(".about-us-paragraph");
 
 aboutbtn.addEventListener("click", function () {
   textch.textContent = "new shit bruhv";
 });
+
+//////lets move to the next js functionality i want to implement

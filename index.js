@@ -22,4 +22,7 @@ aboutbtn.addEventListener("click", function () {
   textch.textContent = "new shit bruhv";
 });
 
+for (i = 0; (i) => 2; i--) {
+  console.log("name is ");
+}
 //////lets move to the next js functionality i want to implement

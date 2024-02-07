@@ -9,11 +9,11 @@ document.querySelector(".year").textContent = "2024";
 //   console.log(document.querySelector(".footer-input").value);
 // });
 
-// const nepa = (document.querySelector(".about-us-paragraph").textContent =
-//   "name");
-// nepa.addEventListener("click", function () {
-//   const done = "the new age";
-// });
+const nepa = (document.querySelector(".about-us-paragraph").textContent =
+  "name");
+nepa.addEventListener("click", function () {
+  const done = "the new age";
+});
 const aboutbtn = document.querySelector(".about-us-btn");
 const textch = document.querySelector(".about-us-paragraph");
 

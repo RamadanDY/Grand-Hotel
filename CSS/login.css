@@ -22,10 +22,31 @@ form {
   padding: 50px;
 }
 
-/* .heading {
+.heading-text {
+  margin: 0;
+  padding: 0 0 50px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.user-wrapper {
+  display: grid;
   padding: 30px;
 }
 
+.user-heading {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.login-input {
+  padding: 12px 20px;
+}
+
+.password-wrapper {
+  display: grid;
+}
+/* 
 h3 {
   margin: 0;
   pading: 0;

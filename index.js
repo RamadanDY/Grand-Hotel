@@ -8,12 +8,13 @@ document.querySelector(".year").textContent = "2024";
 // document.querySelector(".footer-btn").addEventListener("click", function () {
 //   console.log(document.querySelector(".footer-input").value);
 // });
+/////// comment the lines 13 to 17
 
-// const nepa = (document.querySelector(".about-us-paragraph").textContent =
-//   "name");
-// nepa.addEventListener("click", function () {
-//   const done = "the new age";
-// });
+const nepa = (document.querySelector(".about-us-paragraph").textContent =
+  "name");
+nepa.addEventListener("click", function () {
+  const done = "the new age";
+});
 
 const aboutbtn = document.querySelector(".about-us-btn");
 const textch = document.querySelector(".about-us-paragraph");

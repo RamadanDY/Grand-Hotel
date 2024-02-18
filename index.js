@@ -10,11 +10,12 @@ document.querySelector(".year").textContent = "2024";
 // });
 /////// comment the lines 13 to 17
 
-const nepa = (document.querySelector(".about-us-paragraph").textContent =
-  "name");
-nepa.addEventListener("click", function () {
-  const done = "the new age";
-});
+// const nepa = (document.querySelector(".about-us-paragraph").textContent =
+//   "name");
+// nepa.addEventListener("click", function () {
+//   const done = "the new age";
+// });
+const name =
 
 const aboutbtn = document.querySelector(".about-us-btn");
 const textch = document.querySelector(".about-us-paragraph");

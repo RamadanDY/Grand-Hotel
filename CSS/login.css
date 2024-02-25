@@ -1,62 +1,35 @@
 body {
-  margin: 0;
-  pading: 0;
-  box-sizing: border-box;
-}
-
-.login-container {
-  display: flex;
-  justify-content: center;
-  /* justify-content: flex-end or flex-start ; */
-  align-items: center;
-  height: 100vh;
-  background-color: green;
-}
-
-.login-page {
-  border: 1px solid red;
-  border-radius: 20px;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
 }
 
 form {
-  padding: 50px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin: auto;
+    height: 40vh;
 }
 
-.heading-text {
-  margin: 0;
-  padding: 0 0 50px;
-  text-align: center;
-  font-size: 22px;
+h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 90px;
 }
 
-.user-wrapper {
-  display: grid;
-  padding: 30px;
+input {
+    width: 100%;
+    max-width: 350px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    justify-content: center;
 }
 
-.user-heading {
-  font-size: 20px;
-  margin: 10px;
+.login-btn {
+    background-color: green;
 }
-
-.login-input {
-  padding: 12px 20px;
-}
-
-.password-wrapper {
-  display: grid;
-}
-/* 
-h3 {
-  margin: 0;
-  pading: 0;
-  text-align: center;
-}
-
-.input-wrapper {
-  position: relative;
-  display: flex;
-  align-items: center;
-  height: 70px;
-  background: yellow;
-} */
